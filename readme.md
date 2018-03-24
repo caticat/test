@@ -1,4 +1,7 @@
 # Git Test
+
+![travis](https://travis-ci.org/caticat/test.svg?branch=master)
+
 - fa
 - fb
 - fc
